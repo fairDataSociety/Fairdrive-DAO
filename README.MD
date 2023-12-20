@@ -17,17 +17,6 @@
 - [Closing Remarks](#closing-remarks)
 
 
-- Introduction
-- Mission and Purpose
-- Fairdrive DAO Structure
-- Teams and Membership
-- Rights and Responsibilities of Members
-- Funding and Financial Management
-- Privacy and Data Security
-- Community Engagement
-- Fair Data Society Principles
-- Closing Remarks
-
 ## Introduction
 
 ### Fairdrive: Championing Data Sovereignty in a Digital Age
