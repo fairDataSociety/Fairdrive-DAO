@@ -181,3 +181,13 @@ Fairdrive is fully committed to complying with the General Data Protection Regul
 
 Through these measures, Fairdrive upholds its commitment to privacy and data security, ensuring that users can trust our platform as a secure and privacy-respecting digital space.
 
+## Community Engagement
+
+### Current Main Communication Channels
+Engaging with and nurturing our community is integral to Fairdrive's mission. Currently, our primary channels for community engagement are:
+
+- **FDS Twitter**: Twitter serves as a dynamic platform for us to share updates, news, and engage in conversations with our community. It's a space where we broadcast our latest developments and interact with users, developers, and privacy enthusiasts.
+- **FDS Discord**: Our Discord channel is the hub for more in-depth discussions, support, and feedback. Here, community members can engage directly with our team, participate in Q&A sessions, and collaborate on various aspects of Fairdrive's development.
+- **FDS GitHub**: We also maintain a GitHub channel where developers and enthusiasts can track our open-source projects, contribute to the codebase, and stay informed about our technical developments. This channel provides a space for collaboration and transparency in our development process.
+
+These channels are vital for maintaining an open line of communication, fostering a sense of community, and gathering valuable feedback from our users.
