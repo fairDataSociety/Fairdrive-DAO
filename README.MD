@@ -15,6 +15,7 @@ Here are the primary official channels for Fairdrive DAO where you can find upda
 
 ## Quick Navigation
 
+- [Introduction](#introduction)
 - [Mission and Purpose](#mission-and-purpose)
 - [Fairdrive DAO Structure](#fairdrive-dao-structure)
 - [Teams and Membership](#teams-and-membership)
