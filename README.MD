@@ -78,7 +78,7 @@ Fairdrive DAO operates on a governance model that is innovative, inclusive, and 
 
 ### Colony.io and DRIVE Token Usage
 
-The Fairdrive DAO utilizes Colony.io, a platform that facilitates efficient and democratic organizational operations. This choice supports a streamlined, transparent, and flexible management structure. Within this framework, the DRIVE token plays a crucial role. As an ERC20 token, DRIVE is primarily used for governance and voting within the DAO. It's important to note that the DRIVE token is not listed on any exchanges at the moment, emphasizing its utility value within our ecosystem. This token system ensures that every member's voice is heard and that decisions are made in a fair and democratic manner.
+The Fairdrive DAO utilizes [Colony.io](https://colony.io/), a platform that facilitates efficient and democratic organizational operations. This choice supports a streamlined, transparent, and flexible management structure. Within this framework, the DRIVE token plays a crucial role. As an ERC20 token, DRIVE is primarily used for governance and voting within the DAO. It's important to note that the DRIVE token is not listed on any exchanges at the moment, emphasizing its utility value within our ecosystem. This token system ensures that every member's voice is heard and that decisions are made in a fair and democratic manner.
 
 ### Reputation-Based Governance
 
