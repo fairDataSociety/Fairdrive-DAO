@@ -4,6 +4,19 @@
 
 ## Quick Navigation
 
+## Quick Navigation
+
+- [Mission and Purpose](#mission-and-purpose)
+- [Fairdrive DAO Structure](#fairdrive-dao-structure)
+- [Teams and Membership](#teams-and-membership)
+- [Rights and Responsibilities of Members](#rights-and-responsibilities-of-members)
+- [Funding and Financial Management](#funding-and-financial-management)
+- [Privacy and Data Security](#privacy-and-data-security)
+- [Community Engagement](#community-engagement)
+- [Fair Data Society Principles](#fair-data-society-principles)
+- [Closing Remarks](#closing-remarks)
+
+
 - Introduction
 - Mission and Purpose
 - Fairdrive DAO Structure
