@@ -60,12 +60,12 @@ Fairdrive's mission is to revolutionize data management by developing an intuiti
 
 Fairdrive is driven by core values and principles that reflect our commitment to a user-centric digital future:
 
-- Data Empowerment: Championing the right of individuals to own and control their data.
-- Privacy as a Standard: Embedding privacy deeply into our platform, making it a default feature.
-- Clarity and Trust: Embracing transparency in our actions, fostering a community built on trust.
-- User Enablement: Equipping users with the means to take control of their digital presence.
-- Responsible Innovation: Pioneering technological advancements that prioritize societal well-being.
-- Collaborative Progress: Encouraging community participation in shaping a fairer digital landscape.
+- **Data Empowerment:** Championing the right of individuals to own and control their data.
+- **Privacy as a Standard:** Embedding privacy deeply into our platform, making it a default feature.
+- **Clarity and Trust:** Embracing transparency in our actions, fostering a community built on trust.
+- **User Enablement:** Equipping users with the means to take control of their digital presence.
+- **Responsible Innovation:** Pioneering technological advancements that prioritize societal well-being.
+- **Collaborative Progress:** Encouraging community participation in shaping a fairer digital landscape.
 
 In these values, Fairdrive DAO stands as a leader, steering the course towards a technologically advanced yet ethically grounded digital era.
 
