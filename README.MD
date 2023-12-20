@@ -32,7 +32,7 @@ Fairdrive extends its ethos to the developer community, advocating for a respons
 
 ### Future Vision: A Collaborative, Open-Source Journey
 
-As a pivotal initiative of the Fair Data Society, Fairdrive is on a journey to evolve into a collaborative, open-source project that champions the public good. Continually integrating features like vectordb for AI and fairOS for enhanced data interoperability, Fairdrive is committed to sculpting a digital future that is equitable, secure, and underpinned by the principles of data sovereignty.
+As a pivotal initiative of the [Fair Data Society](https://fairdatasociety.org/), Fairdrive is on a journey to evolve into a collaborative, open-source project that champions the public good. Continually integrating features like vectordb for AI and fairOS for enhanced data interoperability, Fairdrive is committed to sculpting a digital future that is equitable, secure, and underpinned by the principles of data sovereignty.
 
 ### Embracing Key Messages
 
