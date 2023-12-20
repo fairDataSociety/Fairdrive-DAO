@@ -3,6 +3,16 @@
 **Disclaimer:** This document is subject to change as Fairdrive DAO evolves. Changes are initiated through internal discussions among DAO members and ratified on-chain through votes. Community members interested in staying updated should regularly review this document or follow our official channels on Twitter and Discord for the latest information. Your engagement and feedback are vital in shaping the future of Fairdrive DAO.
 
 
+## Official Fairdrive DAO Channels
+
+Here are the primary official channels for Fairdrive DAO where you can find updates, engage with the community, and explore our projects:
+
+- **Fairdrive DAO**: [Fairdrive DAO on xDai](https://xdai.colony.io/colony/fairdrive)
+- **Twitter**: Follow our updates on [Twitter](https://twitter.com/fairdatasociety)
+- **Discord**: Join the conversation in our [Discord Community](https://discord.com/invite/vw3PmWf2rE)
+- **GitHub**: Explore our projects on [GitHub](https://github.com/fairDataSociety)
+
+
 ## Quick Navigation
 
 - [Mission and Purpose](#mission-and-purpose)
