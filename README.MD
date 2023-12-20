@@ -125,14 +125,9 @@ At Fairdrive DAO, members of each team are entrusted with a set of rights and re
 
 #### Responsibilities of Members:
 
-### Active Participation
-Members are expected to actively contribute to their respective teams by engaging in tasks, projects, and discussions.
-
-### Upholding DAO Values
-Members are responsible for maintaining the ethos of Fairdrive, which includes a commitment to data privacy, user empowerment, and community collaboration.
-
-### Constructive Collaboration
-Members should collaborate constructively with fellow team members and the broader DAO community, fostering a positive and productive environment.
+-**Active Participation:** Members are expected to actively contribute to their respective teams by engaging in tasks, projects, and discussions.
+-**Upholding DAO Values:** Members are responsible for maintaining the ethos of Fairdrive, which includes a commitment to data privacy, user empowerment, and community collaboration.
+-**Constructive Collaboration:** Members should collaborate constructively with fellow team members and the broader DAO community, fostering a positive and productive environment.
 
 ### Influence of Contribution on Reputation and Voting Power
 Within Fairdrive DAO, contribution significantly impacts a member's reputation and, subsequently, their voting power. This system ensures that those who are actively engaged and contributing effectively have a greater influence on decision-making:
