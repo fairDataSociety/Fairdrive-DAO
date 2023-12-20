@@ -20,7 +20,8 @@
 
 ### Fairdrive: Championing Data Sovereignty in a Digital Age
 
-In our rapidly evolving digital landscape, where artificial intelligence, mixed reality, and geopolitical shifts increasingly intertwine with our daily lives, the management of personal data emerges as a critical concern. Fairdrive stands at the forefront of this challenge, offering more than just a storage solution. It represents a sanctuary in the digital realm, a secure interface to decentralized storage systems like [Swarm](https://www.ethswarm.org/). Fairdrive is the embodiment of digital self-empowerment, enabling individuals to reclaim, own, and manage their data in a cohesive and self-determined manner.
+In our rapidly evolving digital landscape, where artificial intelligence, mixed reality, and geopolitical shifts increasingly intertwine with our daily lives, the management of personal data emerges as a critical concern. Fairdrive stands at the forefront of this challenge, offering more than just a storage solution. It represents a sanctuary in the digital realm, a secure interface to decentralized storage systems like <a href="https://www.ethswarm.org/" target="_blank">Swarm1</a>
+ [Swarm](https://www.ethswarm.org/). Fairdrive is the embodiment of digital self-empowerment, enabling individuals to reclaim, own, and manage their data in a cohesive and self-determined manner.
 
 ### The Value Proposition: Beyond a Storage Platform
 
