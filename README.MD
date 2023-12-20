@@ -124,3 +124,35 @@ At Fairdrive DAO, members of each team are entrusted with a set of rights and re
 - **Participation in Governance:** Through the use of DRIVE tokens, members are empowered to participate in the governance processes, casting votes on key decisions and proposals.
 
 #### Responsibilities of Members:
+
+### Active Participation
+Members are expected to actively contribute to their respective teams by engaging in tasks, projects, and discussions.
+
+### Upholding DAO Values
+Members are responsible for maintaining the ethos of Fairdrive, which includes a commitment to data privacy, user empowerment, and community collaboration.
+
+### Constructive Collaboration
+Members should collaborate constructively with fellow team members and the broader DAO community, fostering a positive and productive environment.
+
+### Influence of Contribution on Reputation and Voting Power
+Within Fairdrive DAO, contribution significantly impacts a member's reputation and, subsequently, their voting power. This system ensures that those who are actively engaged and contributing effectively have a greater influence on decision-making:
+- **Earning Reputation**: Members earn reputation by actively participating in their respective teams, contributing to projects, and achieving objectives that align with Fairdrive's mission.
+- **Increased Voting Power**: A higher reputation translates to increased voting power in governance decisions. This ensures that members who are significantly invested in the DAO’s success have a proportionate influence on its direction.
+- **Dynamic System**: This reputation-based governance model is dynamic, reflecting ongoing contributions and engagement levels of members.
+
+This structure of rights, responsibilities, and reputation-based influence ensures that Fairdrive DAO remains a vibrant, active, and equitable community, driven by members who are genuinely invested in its success and aligned with its core values.
+
+### Funding and Financial Management
+#### Sources of Funding for Fairdrive
+Fairdrive's approach to funding is aligned with its commitment to being a community-driven, non-profit initiative. Our primary sources of funding include:
+- **Fair Data Society (FDS)**: As a pivotal part of the FDS ecosystem, Fairdrive receives foundational support and funding from the Fair Data Society. This backing is crucial in maintaining the alignment of our goals and ensuring the continuity of our mission.
+- **Grants and Donations**: We actively seek grants from organizations that support open-source, privacy-focused projects. Platforms like Gitcoin and Giveth have been instrumental in providing us with financial support through community-driven donations and grants.
+- **Community Contributions**: As we grow, contributions from our user community and supporters play a significant role. These contributions, whether financial or in-kind (such as development resources), are fundamental to our sustainability and growth.
+
+#### Approach to Financial Management
+In managing our finances, Fairdrive adheres to principles that reflect our non-profit and open-source nature:
+- **Transparency and Accountability**: We manage our funds with a high level of transparency and accountability, ensuring that our financial decisions and status are accessible to our community.
+- **Reinvestment in the Project**: All funds received are reinvested back into the project. This includes development of the Fairdrive platform, community building, and outreach efforts.
+- **Ethical Allocation of Resources**: We are committed to the ethical allocation of our resources, prioritizing initiatives and expenditures that directly contribute to our mission and benefit our community.
+
+This approach to funding and financial management ensures that Fairdrive remains true to its ethos as a non-profit initiative, focused on providing a valuable service to the community while upholding the principles of open-source development and data sovereignty.
