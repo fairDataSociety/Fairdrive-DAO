@@ -23,7 +23,7 @@ Here are the primary official channels for Fairdrive DAO where you can find upda
 - [Funding and Financial Management](#funding-and-financial-management)
 - [Privacy and Data Security](#privacy-and-data-security)
 - [Community Engagement](#community-engagement)
-- [Fair Data Society Principles](#fair-data-society-principles)
+- [Adherence to Fair Data Society Principles](#adherence-to-fair-data-society-principles)
 - [Closing Remarks](#closing-remarks)
 
 
