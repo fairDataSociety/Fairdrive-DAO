@@ -1,6 +1,6 @@
 # Fairdrive DAO Governance Document
 
-**Disclaimer:** This document is subject to change as Fairdrive DAO evolves. Changes are initiated through internal discussions among DAO members and ratified on-chain through votes. Community members interested in staying updated should regularly review this document or follow our official channels on Twitter and Discord for the latest information. Your engagement and feedback are vital in shaping the future of Fairdrive DAO.
+**Disclaimer: This document is subject to change as Fairdrive DAO evolves. Changes are initiated through internal discussions among DAO members and ratified on-chain through votes. Community members interested in staying updated should regularly review this document or follow our official channels on Twitter and Discord for the latest information. Your engagement and feedback are vital in shaping the future of Fairdrive DAO.**
 
 
 ## Official Fairdrive DAO Channels
