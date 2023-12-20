@@ -164,11 +164,8 @@ This approach to funding and financial management ensures that Fairdrive remains
 ### Commitment to Privacy and Data Security
 At the heart of Fairdrive's ethos is a steadfast commitment to privacy and data security. Recognizing the critical importance of protecting users' digital information, Fairdrive is built on the foundation of safeguarding personal data against unauthorized access and ensuring the confidentiality and integrity of user data.
 
-#### Privacy by Design
-Our approach to privacy is proactive, not reactive. We incorporate privacy at every stage of development, ensuring that it is an integral part of our platform, not just an add-on.
-
-#### Secure Data Management
-We employ advanced security measures to protect data stored on Fairdrive. Our platform is designed to provide robust protection against digital threats, ensuring that users' data is safe and secure. (Disclaimer: Fairdrive is currently in beta, so please use it at your discretion.)
+- **Privacy by Design:** Our approach to privacy is proactive, not reactive. We incorporate privacy at every stage of development, ensuring that it is an integral part of our platform, not just an add-on.
+- **Secure Data Management:** We employ advanced security measures to protect data stored on Fairdrive. Our platform is designed to provide robust protection against digital threats, ensuring that users' data is safe and secure. (Disclaimer: Fairdrive is currently in beta, so please use it at your discretion.)
 
 #### Use of Self-Hosted, Open-Source Solutions
 Fairdrive's commitment to privacy and security extends to the use of self-hosted, open-source solutions. This approach allows us to maintain full control over our infrastructure, eliminating reliance on third-party services that may have different privacy and security standards.
