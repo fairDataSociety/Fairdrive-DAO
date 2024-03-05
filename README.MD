@@ -13,7 +13,7 @@ Here are the primary official channels for Fairdrive DAO where you can find upda
 - [GitHub Projects](https://github.com/fairDataSociety)
 - [Telegram](https://t.me/+_m_6YNIvT0UwMGU8)
 - [Wiki](https://github.com/fairDataSociety/Fairdrive-DAO/wiki)
-- [**Start**](https://github.com/fairDataSociety/Fairdrive-DAO/wiki/START-HERE-%E2%80%90---Fairdrive-DAO-Governance-and-Operating-System)
+- [Start Here](https://github.com/fairDataSociety/Fairdrive-DAO/wiki/START-HERE-%E2%80%90---Fairdrive-DAO-Governance-and-Operating-System)
 
 
 ## Quick Navigation
