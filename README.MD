@@ -219,7 +219,7 @@ By upholding these principles, Fairdrive DAO ensures that our actions and decisi
 
 ## Closing Remarks
 
-In conclusion, Fairdrive DAO is driven by a powerful mission and purpose—to create a secure and ethical digital haven where privacy is intrinsic, and every user can confidently navigate the digital realm with full control over their data. Our commitment to these principles is unwavering, and we believe in empowering individuals to reclaim, own, and manage their data in a unified space.
+Fairdrive DAO is driven by a powerful mission and purpose—to create a secure and ethical digital haven where privacy is intrinsic, and every user can confidently navigate the digital realm with full control over their data. Our commitment to these principles is unwavering, and we believe in empowering individuals to reclaim, own, and manage their data in a unified space.
 
 As we embark on this journey, we invite our community members to actively participate and provide feedback. Your insights, ideas, and contributions are invaluable as we work towards a more equitable and secure digital future. Together, we can champion the right to data sovereignty and build a world where every user's data works for them.
 
