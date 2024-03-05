@@ -7,7 +7,7 @@
 
 Here are the primary official channels for Fairdrive DAO where you can find updates, engage with the community, and explore our projects:
 
-- [Fairdrive DAO on xDai](https://xdai.colony.io/colony/fairdrive)
+- [Join Fairdrive DAO on xDai](https://xdai.colony.io/colony/fairdrive)
 - [Twitter](https://twitter.com/fairdatasociety)
 - [Discord Community](https://discord.com/invite/vw3PmWf2rE)
 - [GitHub Projects](https://github.com/fairDataSociety)
