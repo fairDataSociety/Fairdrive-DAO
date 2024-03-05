@@ -7,13 +7,13 @@
 
 Here are the primary official channels for Fairdrive DAO where you can find updates, engage with the community, and explore our projects:
 
-- **Fairdrive DAO**: [Fairdrive DAO on xDai](https://xdai.colony.io/colony/fairdrive)
-- **Twitter**: Follow our updates on [Twitter](https://twitter.com/fairdatasociety)
-- **Discord**: Join the conversation in our [Discord Community](https://discord.com/invite/vw3PmWf2rE)
-- **GitHub**: Explore our projects on [GitHub](https://github.com/fairDataSociety)
-- **Telegram**: Please [join](https://t.me/+_m_6YNIvT0UwMGU8)
-- **Wiki**: Explore more on [GitHub](https://github.com/fairDataSociety/Fairdrive-DAO/wiki)
-- **Start**: [Here](https://github.com/fairDataSociety/Fairdrive-DAO/wiki/START-HERE-%E2%80%90---Fairdrive-DAO-Governance-and-Operating-System)
+- [Fairdrive DAO on xDai](https://xdai.colony.io/colony/fairdrive)
+- [Twitter](https://twitter.com/fairdatasociety)
+- [Discord Community](https://discord.com/invite/vw3PmWf2rE)
+- [GitHub Projects](https://github.com/fairDataSociety)
+- [Telegram](https://t.me/+_m_6YNIvT0UwMGU8)
+- [Wiki](https://github.com/fairDataSociety/Fairdrive-DAO/wiki)
+- [**Start**](https://github.com/fairDataSociety/Fairdrive-DAO/wiki/START-HERE-%E2%80%90---Fairdrive-DAO-Governance-and-Operating-System)
 
 
 ## Quick Navigation
