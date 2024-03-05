@@ -11,7 +11,8 @@ Here are the primary official channels for Fairdrive DAO where you can find upda
 - **Twitter**: Follow our updates on [Twitter](https://twitter.com/fairdatasociety)
 - **Discord**: Join the conversation in our [Discord Community](https://discord.com/invite/vw3PmWf2rE)
 - **GitHub**: Explore our projects on [GitHub](https://github.com/fairDataSociety)
-- **Wiki**: Explore Wiki on [GitHub](https://github.com/fairDataSociety/Fairdrive-DAO/wiki)
+- **Telegram**: Please [join](https://t.me/+_m_6YNIvT0UwMGU8)
+- **Wiki**: Explore more on [GitHub](https://github.com/fairDataSociety/Fairdrive-DAO/wiki)
 
 
 ## Quick Navigation
